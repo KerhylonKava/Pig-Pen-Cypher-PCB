@@ -15,6 +15,9 @@ Uses:
 # PCB
 ![image](https://github.com/user-attachments/assets/7aa2e92e-2f3a-425a-8a99-c881fa0bd013)
 
+![image](https://github.com/user-attachments/assets/caad34bb-c5e0-44fc-87a2-ef0cc1272e80)
+
+
 ![Screenshot 2025-05-29 141904](https://github.com/user-attachments/assets/21b92b7c-de30-436a-8bfd-776aeb266969)
 
 Made by @Star on slack :D
