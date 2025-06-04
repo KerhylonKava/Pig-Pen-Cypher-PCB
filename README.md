@@ -1,13 +1,14 @@
 # Pig-Pen-Cypher-PCB
 A PCB with a 3 by 3 led display that uses buttons to show a modified version of pigpen cypher. Also has a vibrating motor.
+
 Uses:
-2 +3V0 Batteries
-6 Push Buttons
-9 2N3904 Transistors
-10 220 Resistors
-9 LEDs
-1 Potentiometer
-1 Vibrating Motor
+- 2 +3V0 Batteries
+- 6 Push Buttons
+- 9 2N3904 Transistors
+- 10 220 Resistors
+- 9 LEDs
+- 1 Potentiometer
+- 1 Vibrating Motor
 
 # Schematic
 ![image](https://github.com/user-attachments/assets/12484cd6-1170-408b-8f50-1a38a5492c78)
